@@ -27,6 +27,9 @@
   src: local("Cerebri-sans Light"), url("../fonts/cerebrisans-light.woff") format("woff");
   font-weight: 300;
 }
+a{
+  color: RED;
+}
 
 @font-face {
   font-family: "Cerebri Sans,sans-serif";
